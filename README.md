@@ -8,4 +8,4 @@ The query and the relevant paragraphs are sent to the LLM which generates an ans
 1. Run the program using the command:<br>
     python main.py<br>
 2. Enter the query of Ctrl+C to exit<br>
-3. Relevant paragraphs and the answer is printed
+3. Most relevant paragraph and the answer is printed
